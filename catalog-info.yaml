@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tj1
+  annotations:
+    github.com/project-slug: tfynes-pivotal/tj1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-team
